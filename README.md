@@ -32,6 +32,7 @@ The main dashboard is divided into several views:
 - **Monthly Revenue Trend:** Line chart showing revenue progression over months.
 - **Year Filter (Parameter):** Allows dynamic filtering of all views by selected year.
 
+<img src="Imagenes/dashboard.png" alt="Dashboard de ventas" width="800">
 
 
 ---
